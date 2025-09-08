@@ -4,15 +4,14 @@ GitHeist Security Footage Repository
 
 This repository contains security camera footage from **TechSphere Corporation** covering the period from **June 1, 2025** to **August 30, 2025**. 
 
-🏢 About TechSphere Corporation
+ About TechSphere Corporation
 
 **TechSphere Corporation** is a leading financial technology firm specializing in:
 - Secure digital transactions
 - Treasury management systems
 - Multi-layered security protocols including:
   - Badge authentication
-  - Dynamic OTP verification
-  - Hardware USB token confirmation
+  - Transfer Authentication Pin verification
 
 
 Each day contains **24 hourly log files** (00-00.log to 23-00.log) with timestamped security camera observations.
@@ -25,12 +24,14 @@ Each day contains **24 hourly log files** (00-00.log to 23-00.log) with timestam
 
 **Night Hours (18:00 - 07:59)**
 - Minimal security activity
+- Employees might work overtime
 - "No action recorded" for deep night hours (22:00 - 05:59)
 - Security guard patrols during evening/early morning
 
 
 
-📊 File Format
+
+File Format
 
 Each log file contains:
 
@@ -53,9 +54,8 @@ All events, characters, and organizations are fictitious and created for learnin
 
 1. Navigate through the monthly directories
 2. Examine daily footage files
-3. Pay special attention to August 29 timeline
-4. Analyze patterns and suspicious activities
-5. Cross-reference with other repos
+3. Analyze patterns and suspicious activities
+4. Cross-reference with other repos
 
 
 *"In the digital age, the perfect crime leaves digital fingerprints."*
