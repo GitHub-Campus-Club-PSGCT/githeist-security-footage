@@ -45,7 +45,6 @@ Location: Corporate Headquarters
 
 
 [HH:MM] Employee action/observation
-[HH:MM] Employee action/observation
 
 
 
