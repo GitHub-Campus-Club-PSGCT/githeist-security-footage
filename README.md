@@ -36,9 +36,13 @@ File Format
 Each log file contains:
 
 === TechSphere Corporation Security Camera Footage ===
+
 Date: YYYY-MM-DD
+
 Hour: HH:00 - HH:00
+
 Location: Corporate Headquarters
+
 
 [HH:MM] Employee action/observation
 [HH:MM] Employee action/observation
