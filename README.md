@@ -11,7 +11,7 @@ This repository contains security camera footage from **TechSphere Corporation**
 - Treasury management systems
 - Multi-layered security protocols including:
   - Badge authentication
-  - Transfer Authentication Pin verification
+  - Transaction Authorization Codes
 
 
 Each day contains **24 hourly log files** (00-00.log to 23-00.log) with timestamped security camera observations.
